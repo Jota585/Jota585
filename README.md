@@ -2,10 +2,14 @@
 🤖🧟‍♂️😮‍💨
 
 - Sou aluno de pensamento computacional, matemática e física
-- atualente sou aluno de pensamento computracional da professora Fran
-- sou fã de The walking dead🧟
-- gosto de motos🏍️
-- sou estudante do Colégio estadual do campo cerrado das cinzas
+- Atualente sou aluno de pensamento computracional da professora Fran
+- Sou fã de The walking dead🧟
+- Gosto de motos🏍️
+- Sou estudante do Colégio estadual do campo cerrado das cinzas
+- 16y🎊
+- Arapoti/PR📍
+- 01
+  
 
 - ### Estou aprendendo...
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://editor.p5js.org/)
