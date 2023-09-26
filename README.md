@@ -22,13 +22,4 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesimiel.jr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( jesimiel.junior@escola.pr.gov.br)
 
-<div align="center">
-  <a href="https://github.com/FranPastori">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FranPastori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranPastori&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-![](https://komarev.com/ghpvc/?username=FranPastori&style=flat-square)
-
  
